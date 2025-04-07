@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" hassounds="0" start="node1" appversion="7.1.9">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-30.747" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-30.747" description="" copyright="" nodeid="node1" comment="" tags="ArtePes" latitude="-32.05248467" streetviewlink="https://www.google.com/maps/@-32.0524847,-52.1250217,3a,75y,329.25h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvKroACDvJ!2e10" datetime="01/04/2025 16:08" longitude="-52.12502169" customnodeid="" title="Art &amp; Pães Congelados" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="6.83225" description="" url="{node2}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-1.6893"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-27.7082" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-27.7082" description="" copyright="" nodeid="node2" comment="" tags="ArtePes" latitude="-32.05243096" streetviewlink="https://www.google.com/maps/@-32.052431,-52.1250569,3a,75y,332.29h,90t/data=!3m4!1e1!3m2!1sCIABIhADydER5C1nfmfvKrkADo2o!2e10" datetime="01/04/2025 16:08" longitude="-52.12505690" customnodeid="" title="Art &amp; Pães Congelados" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="6.83225" description="" url="{node1}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-178.651"/>
+      <hotspot id="Point02" tilt="0" distance="5.03196" description="" url="{node3}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-2.42921"/>
+      <hotspot id="Point03" tilt="0" distance="3.81565" description="" url="{node5}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="88.8641"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-213.451" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-213.451" description="" copyright="" nodeid="node3" comment="" tags="ArtePes" latitude="-32.05239004" streetviewlink="https://www.google.com/maps/@-32.05239,-52.1250797,3a,75y,328.33h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvKroABYJ3!2e10" datetime="01/04/2025 16:08" longitude="-52.12507970" customnodeid="" title="Art &amp; Pães Congelados" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="5.03196" description="" url="{node2}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-368.172"/>
+      <hotspot id="Point02" tilt="0" distance="3.56712" description="" url="{node4}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-93.6981"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="61.6986" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="61.6986" description="" copyright="" nodeid="node4" comment="" tags="ArtePes" latitude="-32.05240596" streetviewlink="https://www.google.com/maps/@-32.052406,-52.1251126,3a,75y,61.7h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz7i4tpmfvKr8ACg9B!2e10" datetime="01/04/2025 16:08" longitude="-52.12511256" customnodeid="" title="Art &amp; Pães Congelados" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" tilt="0" distance="4.84672" description="" url="{node5}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-96.0788"/>
+      <hotspot id="Point01" tilt="0" distance="3.56712" description="" url="{node3}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="1.45151"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" levelingroll="0">
+      <level predecode="0" width="1632" height="1632" preload="0"/>
+      <level predecode="0" width="816" height="816" preload="0"/>
+      <level predecode="1" width="408" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-11.5725" fovmode="2">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" scaletofit="1"/>
+    </view>
+    <userdata source="" author="" heading="-11.5725" description="" copyright="" nodeid="node5" comment="" tags="ArtePes" latitude="-32.05244631" streetviewlink="https://www.google.com/maps/@-32.0524463,-52.1250931,3a,75y,348.43h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWZhkhEGfvKsAACwxf!2e10" datetime="01/04/2025 16:08" longitude="-52.12509311" customnodeid="" title="Art &amp; Pães Congelados" info=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" background="1" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" border="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" tilt="0" distance="4.84672" description="" url="{node4}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="10.6501"/>
+      <hotspot id="Point02" tilt="0" distance="3.81565" description="" url="{node2}" skinid="ht_node" target="$fwd" title="Art &amp; Pães Congelados" pan="-75.0002"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" type="crossdissolve" delay="none" zoomfov="40" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control sensitivity="8" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" description="" copyright="" comment="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
